@@ -10,6 +10,12 @@
     "ice_sword": "textures/items/ice_sword",
     "lightning_sword": "textures/items/lightning_sword",
     "blacksteel_greataxe": "textures/items/blacksteel_greataxe",
-    "blacksteel_greatblade": "textures/items/blacksteel_greatblade"
+    "blacksteel_greatblade": "textures/items/blacksteel_greatblade",
+    "netherite_sword": "textures/items/custom_netherite_sword",
+    "diamond_sword": "textures/items/custom_diamond_sword",
+    "wooden_sword": "textures/items/custom_wooden_sword",
+    "iron_sword": "textures/items/custom_iron_sword",
+    "golden_sword": "textures/items/custom_golden_sword",
+    "stone_sword":  "textures/items/custom_stone_sword"
   }
 }
